@@ -1,2 +1,2 @@
 # drumkit
-A drum kit up
+A drum kit
