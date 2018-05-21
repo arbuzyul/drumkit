@@ -14,10 +14,17 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "/posts/:title/"
+       permalink: "/posts/:title/"
+       file:
+       keynote:
+       type: post
 - scope:
     path: ''
     type: pages
   values:
     layout: page
+- scope:
 permalink: pretty
+
+
+
