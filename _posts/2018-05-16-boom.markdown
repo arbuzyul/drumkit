@@ -5,3 +5,4 @@ file: "/uploads/boom.wav"
 keycode: 66
 ---
 
+A boooming sound.
