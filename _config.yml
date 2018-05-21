@@ -1,4 +1,3 @@
-
 ---
 title: Drum Kit
 timezone: UTC
@@ -16,8 +15,8 @@ defaults:
   values:
     layout: post
     permalink: "/posts/:title/"
-    file:
-    keycode:
+    file: 
+    keycode: 
 - scope:
     path: ''
     type: pages
